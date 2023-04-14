@@ -6,10 +6,7 @@
             <div class="row h-100 justify-content-center align-items-center">
               <div class="col-md-6">
                     <h3>Products Page</h3>
-                    
-                 <p>
-                   Anh ta có nên tìm kiếm niềm vui một cách chính đáng? Không có gì sẽ chỉ trích những niềm vui lớn của cuộc sống của sự thật, bằng cách từ chối nó từ? Tôi tự do, như thể được sinh ra, để tận hưởng những thú vui
-                 </p>
+                
               </div>
               <div class="col-md-6">
                   <img src="/img/svg/products.svg" alt="" class="img-fluid">
